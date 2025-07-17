@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // создал юзера
+            Console.WriteLine("Hello, Stepik!");
+            // создал человека
         }
     }
 }
