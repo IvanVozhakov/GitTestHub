@@ -6,7 +6,7 @@
         {
             // создал юзера
             Console.WriteLine("Hello, Stepik!");
-            // создал человека
+       
         }
     }
 }
